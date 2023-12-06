@@ -18,3 +18,20 @@ body{
     height: 390px;
     margin: 105px;
  }
+.cabecalho{
+   background-color: darkgrey;
+}
+.logo_cabecalho{
+   width: 300px;
+   margin-left: 750px;
+   margin-top: 50px;
+}
+.lista_cabecalho{
+   display: flex;
+   margin-left: 550px;
+}
+.item_lita_cabecalho{
+   font-size: 40px;
+   list-style: none;
+   padding-left: 400px;
+}

@@ -30,7 +30,7 @@ body{
    display: flex;
    margin-left: 550px;
 }
-.item_lita_cabecalho{
+.item_lista_cabecalho{
    font-size: 40px;
    list-style: none;
    padding-left: 100px;

@@ -1,5 +1,5 @@
 body{
-    background: rgb(255, 255, 255);
+    background: gray
 }
  h1{
     font-size: 60px;
@@ -19,7 +19,7 @@ body{
     margin: 105px;
  }
 .cabecalho{
-   background-color: darkgrey;
+   background-color: gray;
 }
 .logo_cabecalho{
    width: 300px;

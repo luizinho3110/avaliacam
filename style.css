@@ -28,10 +28,10 @@ body{
 }
 .lista_cabecalho{
    display: flex;
-   margin-left: 550px;
+   margin-left: 750px;
 }
 .item_lista_cabecalho{
    font-size: 40px;
    list-style: none;
-   padding-left: 100px;
+   padding-left: 80px;
 }
